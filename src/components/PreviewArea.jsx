@@ -233,8 +233,8 @@ export default function PreviewArea() {
           <RotateCcw color='white' />
         </div>
         <div
-          onClick={() => window.open("", "_blank")}
-          title='Get the code! - github.com/ksanjeeb'
+          onClick={() => window.open("https://vaishnaviw-mit-scratch.vercel.app/", "_blank")}
+          title='Vaishnavi Wakchaure'
           className='cursor-pointer ml-1 bg-gray-200 rounded-xl p-1'
         >
           <Github />
